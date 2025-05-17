@@ -1,0 +1,58 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.button {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.spag-title {
+    text-align: center;
+}
+
+.taco-title {
+    text-align: center;
+}
+
+.french-title {
+    text-align: center;
+}
+
+.title-index {
+    margin: 5px 0px 5px 800px;
+}
+
+.spag-intro {
+    text-align: center;
+}
+
+.taco-intro {
+    text-align: center;
+}
+
+.french-intro {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
+ol {
+    margin: 5px 0px 5px 800px;
+}
+
+li {
+    padding: 5px 0px;
+}
+
+body {
+    background-color:  azure;
+}
